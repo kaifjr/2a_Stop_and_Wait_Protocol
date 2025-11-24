@@ -45,3 +45,5 @@ Refer to the screenshot below to see the program's output.
 ![OutputScreenshot](output.png)
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
+
+
